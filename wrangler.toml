@@ -16,7 +16,7 @@ crons = ["* * * * *"]
 
 # 环境变量（非敏感信息）
 [vars]
-BARK_SERVER = "https://api.day.app"
+BARK_SERVER = "https://bark.gsyy.eu.org"
 RATE_LIMIT = "10"
 DEBUG = "false"
 
